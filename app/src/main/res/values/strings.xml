@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="namak">학번@namak</string>
+    <string name="password">비밀번호</string>
+    <string name="password2">비밀번호 확인</string>
+    <string name="re_btn">확인</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858377475143",
+    "project_id": "please-d5f67",
+    "storage_bucket": "please-d5f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858377475143:android:3a6581bb4f32861e500d62",
+        "android_client_info": {
+          "package_name": "com.Please.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858377475143-ejo9a0crb0msunin9gclmnr87uj46ucl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mdsU2sgR-FI5TmztbFsy0gmFVyzJdUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858377475143-ejo9a0crb0msunin9gclmnr87uj46ucl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
