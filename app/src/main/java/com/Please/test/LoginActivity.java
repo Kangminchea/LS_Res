@@ -66,7 +66,7 @@ public class LoginActivity extends AppCompatActivity {
 
                         if (dataSnapshot.child(classN).exists()) {
                             String nnn = dataSnapshot.child(classN).child("num").getValue().toString();
-                            String ppp = dataSnapshot.child(classP).child("password").getValue().toString();
+                            String ppp = dataSnapshot.child(classN).child("password").getValue().toString();
                             if (nnn.equals(classN)) {
                                 if (ppp.equals(classP)) {
                                     Intent intent = new Intent(LoginActivity.this, MainActivity.class);
